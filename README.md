@@ -2,7 +2,7 @@ Hello 👋
 
 
 
-Software engineer with 4+ years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, mobile, and API development.
+Software engineer with 4+ years of experience. Worked for innovative startups, large enterprise products, and award-winning agencies. Familiar with remote role. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web, and API development.
 
 🛠️Technologies & Tools
 
