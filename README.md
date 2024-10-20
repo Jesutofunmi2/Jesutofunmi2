@@ -11,7 +11,7 @@ Software engineer with 4+ years of experience. Worked for innovative startups, l
 
 
 # 📊 Statistics 
-https://profile-summary-for-github.com/user/Jesutofunmi2
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesutofunmi2)](https://github.com/Jesutofunmi2/github-readme-stats)
 
 <!---
 Jesutofunmi2/Jesutofunmi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
