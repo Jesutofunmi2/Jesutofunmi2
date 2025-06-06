@@ -4,9 +4,9 @@
 
 # Joseph Balogun👋
 
-# A Fullstack developer, Open Source contributor, technical writer and mentor
+## 💻 A Fullstack Developer, Open Source Contributor, Technical Writer, and Mentor. 
 - I enjoy using modern technologies to build web-based applications that leave a lasting impression on users.  
-- I strive for excellence and pixel-perfect design.  
+- I strive for excellence and pixel-perfect design.
 - I also write — writing helps me consolidate my knowledge and share lessons with others. I have a couple of articles on [Medium](https://medium.com/@balogun_joseph).  
 - I have mentored in three to four internships, and it’s always a great experience to help beginners navigate a great career in Tech.  
 - **Hobbies:** Sports and reading (Sidney Sheldon’s collection is my favorite).
