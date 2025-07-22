@@ -7,6 +7,8 @@
 ## 💻 A Fullstack Developer, Open Source Contributor, Technical Writer, and Mentor. 
 - I enjoy using modern technologies to build web-based applications that leave a lasting impression on users.  
 - I strive for excellence and pixel-perfect design.
+- I love to work in a positive environment where we help and challenge each other to learn and grow.
+- My happy place is seeing a product come to life and making a positive business impact.
 - I also write — writing helps me consolidate my knowledge and share lessons with others. I have a couple of articles on [Medium](https://medium.com/@balogun_joseph).  
 - I have mentored in three to four internships, and it’s always a great experience to help beginners navigate a great career in Tech.  
 - **Hobbies:** Sports and reading (Sidney Sheldon’s collection is my favorite).
