@@ -1,27 +1,68 @@
-
 ![bannerm](https://github.com/user-attachments/assets/1e3086f5-13b7-4121-91f6-c889832032b4)
 
+# Hi there, I'm Joseph Balogun 👋
 
-# Joseph Balogun👋
+### 🚀 Full-Stack Engineer | AI & SaaS Builder | Technical Writer & Mentor
 
-## 💻 A Fullstack Developer, Open Source Contributor, Technical Writer, and Mentor. 
-- I enjoy using modern technologies to build web-based applications that leave a lasting impression on users.  
-- I strive for excellence and pixel-perfect design.
-- I love to work in a positive environment where we help and challenge each other to learn and grow.
-- My happy place is seeing a product come to life and making a positive business impact.
-- I also write — writing helps me consolidate my knowledge and share lessons with others. I have a couple of articles on [Medium](https://medium.com/@balogun_joseph).  
-- I have mentored in three to four internships, and it’s always a great experience to help beginners navigate a great career in Tech.  
-- **Hobbies:** Sports and reading (Sidney Sheldon’s collection is my favorite).
+I build intelligent, high-performance web applications and scalable digital products that leave a lasting impression. My work bridges modern full-stack architecture with **generative AI integrations**, clean UI engineering, and seamless omnichannel systems.
 
+---
 
-# 🛠️ Technologies & Tools
-<img src="https://camo.githubusercontent.com/48db4d7d4cf0efc5c42862f74b9f3e0eadf3580cee682e320e80ad26772e9df6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c266c6f676f3d6a617661736372697074" /> <img src="https://camo.githubusercontent.com/76e3d944354bce901a0ee4056b8f96dde8c0db6e2d52377683524a28294bb853/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d45636d615363726970742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c" /> <img src="https://camo.githubusercontent.com/ab14984e67b54aa5eccf991120d97abb4affbfea3cd0c38af6317d6f2a86aad2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4e6f64652d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c266c6f676f3d6e6f64652e6a73" /> <img src="https://camo.githubusercontent.com/029cbb67717c74e07ef28829fb9cef30df612d0d844126cf833ff65e69008c20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d52656163742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c266c6f676f3d7265616374" /> <img src="https://camo.githubusercontent.com/cafc3f66213c7d914c908f134524be283a79cf5043069de858e64a42f7fedaac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d5765627061636b2d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d7761726e696e67266c6f676f3d7765627061636b" /> <img src="https://camo.githubusercontent.com/52d68374b1cd6e22d72adcff2156c3c6e53e19650717e049a91b1273c615d4d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d4a6573742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d7761726e696e67266c6f676f3d6a657374" /> <img src="https://camo.githubusercontent.com/d00ebc40ce5663908d305feadd036ee59d9d4f9c6fbbf765dd2afd88258dd3f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d547970655363726970742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c" /> <img src="https://camo.githubusercontent.com/67efd5c0ccc0c6e197d1f704f21fce2b4396899d6a86125cef07a41bb495f89d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d5675652d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c266c6f676f3d7675652e6a73" /> <img src="https://camo.githubusercontent.com/1895293ffc0fa753ef652bda1b709241f9b1447d8bb258834834d3bb1d8021f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d534353532d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d7761726e696e67266c6f676f3d73617373" /> <img src="https://camo.githubusercontent.com/e330619d7e871689286a651bb3df4220a03281c643b3cf2679dcd4cb3bb5098f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546f6f6c2d446f636b65722d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d7761726e696e67266c6f676f3d646f636b6572" />
+### 💡 About Me
 
+- 🤖 **Building with AI:** Crafting intelligent SaaS platforms, automated workflows, and integrating LLMs to solve real-world problems.
+- 🎨 **Pixel-Perfect & Resilient:** Passionate about clean code, high-converting UX, accessible design systems, and robust APIs.
+- 📈 **Business-Driven:** My happy place is transforming complex business logic into intuitive, high-impact products that move metrics.
+- ✍️ **Technical Writer:** I write about web architecture, frontend performance, and lessons learned on [Medium (@balogun_joseph)](https://medium.com/@balogun_joseph).
+- 🤝 **Mentorship & Community:** Mentored in 3+ developer cohorts and open-source programs to help beginners break into tech.
+- 📚 **Beyond the Code:** Big on sports, fitness, and an avid reader (huge fan of Sidney Sheldon's thrillers).
 
-# 📊 Statistics 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesutofunmi2)](https://github.com/Jesutofunmi2/github-readme-stats) ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesutofunmi2&show_icons=true&theme=radical)
+---
 
-<!---
-Jesutofunmi2/Jesutofunmi2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack & Capabilities
+
+#### 🧠 Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 💻 Frontend & Styling
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+#### 🤖 AI, Backend & Cloud
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![REST & GraphQL](https://img.shields.io/badge/REST_&_OAuth_2.0-005571?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jesutofunmi2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Joseph's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesutofunmi2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://medium.com/@balogun_joseph" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="mailto:balogunsunday91@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Jesutofunmi2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
