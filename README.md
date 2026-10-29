@@ -51,7 +51,7 @@ I build intelligent, high-performance web applications and scalable digital prod
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-tau-hazel.vercel.app/api/top-langs/?username=Jesutofunmi2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+ <img src="https://github-readme-stats-tau-hazel.vercel.app/api/top-langs/?username=Jesutofunmi2&layout=compact&theme=radical&hide_border=true&hide=php,blade" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=Jesutofunmi2&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
