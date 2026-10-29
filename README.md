@@ -46,10 +46,15 @@ I build intelligent, high-performance web applications and scalable digital prod
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesutofunmi2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Joseph's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesutofunmi2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jesutofunmi2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Joseph's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jesutofunmi2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Jesutofunmi2&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ---
 
